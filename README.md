@@ -9,4 +9,4 @@
 
 - 👯 I’m looking to collaborate on React Native projects, where I can contribute my knowledge and collaborate with fellow developers to create innovative and impactful mobile applications.
 
-Feel free to ask for collaboration on repositories that need maintenance, I am open to opportunities.
+Feel free to ask for collaboration on repositories that need maintenance or for something else, I am open to opportunities.
