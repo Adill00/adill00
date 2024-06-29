@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on developing a Weather forecast/nowcast application on React Native Expo, leveraging my skills and expertise in frontend and backend development.
+- 🔭 I’m currently working on developing a E Commerce Mobile application on React Native, leveraging my skills and expertise in frontend and backend development.
 
   
 - 🌱 I’m currently learning the intricacies of Cross Platform Mobile Development specifically focusing on React Native, aiming to broaden my proficiency in mobile app development and enhance my capabilities in delivering robust and user-friendly applications.
